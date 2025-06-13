@@ -1,5 +1,5 @@
 /*==============================================================================
-PAIRS TRADING STRATEGY: INDONESIAN BANK STOCKS ANALYSIS
+SIMULATION OF PAIRS TRADING STRATEGY
 ================================================================================
 
 Project: Pairs Trading Strategy Implementation using Cointegration Techniques
@@ -14,7 +14,7 @@ cointegration analysis of four major Indonesian bank stocks:
 - BBCA (Bank Central Asia)
 - BMRI (Bank Mandiri)
 
-The strategy follows these steps:
+The simulation follows these steps:
 1. Data preprocessing and cointegration testing
 2. Rolling regression to estimate time-varying hedge ratios
 3. Spread calculation and threshold-based trading signals
