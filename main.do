@@ -4,7 +4,7 @@ PAIRS TRADING STRATEGY: INDONESIAN BANK STOCKS ANALYSIS
 
 Project: Pairs Trading Strategy Implementation using Cointegration Techniques
 Author: Abdurrahman Fadhil
-Date: 14 June 2025
+Date: 13 June 2025
 
 Description:
 This script implements a statistical arbitrage pairs trading strategy based on
